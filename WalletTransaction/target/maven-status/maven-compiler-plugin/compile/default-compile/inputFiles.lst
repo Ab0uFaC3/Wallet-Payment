@@ -1,9 +1,0 @@
-/Users/piyup/Desktop/Capstone Project/WalletTransaction/src/main/java/com/nse/transaction/ServletInitializer.java
-/Users/piyup/Desktop/Capstone Project/WalletTransaction/src/main/java/com/nse/transaction/service/IWalletTransactionService.java
-/Users/piyup/Desktop/Capstone Project/WalletTransaction/src/main/java/com/nse/transaction/exception/WalletTransactionExceptionHandler.java
-/Users/piyup/Desktop/Capstone Project/WalletTransaction/src/main/java/com/nse/transaction/exception/NoSuchIdException.java
-/Users/piyup/Desktop/Capstone Project/WalletTransaction/src/main/java/com/nse/transaction/entity/WalletTransaction.java
-/Users/piyup/Desktop/Capstone Project/WalletTransaction/src/main/java/com/nse/transaction/repository/IWalletTransactionRepository.java
-/Users/piyup/Desktop/Capstone Project/WalletTransaction/src/main/java/com/nse/transaction/WalletTransactionApplication.java
-/Users/piyup/Desktop/Capstone Project/WalletTransaction/src/main/java/com/nse/transaction/controller/WalletTransactionController.java
-/Users/piyup/Desktop/Capstone Project/WalletTransaction/src/main/java/com/nse/transaction/service/WalletTransactionService.java
