@@ -18,3 +18,4 @@ Steps to access the Services:
 Note:
 - A User can have a single Account with multiple Transactions
 - Make the required changes in yml files of all services
+- Include the lib folder from Wallet Account in Build Path of all the Microservices 
