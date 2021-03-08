@@ -1,0 +1,44 @@
+#Note:
+# [] - need to fill required details and remove square brackets
+
+
+
+spring:
+  datasource:
+    platform: mysql
+    url: jdbc:mysql://localhost:3306/[name of the database]
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    
+    #Add username of MySQL and uncomment
+    #username: [add username]
+    
+    #Add password of MySQL and uncomment
+    #password: [add password]
+    
+  #Automatically creates table with Entity name
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+#To name the client
+  application:
+    name: WalletAccount
+
+
+server:
+  port: 9090
+
+
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    
+    #Location of the Server
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+      
+  # Location where the instance of client will be running
+  instance:
+    hostname: localhost
